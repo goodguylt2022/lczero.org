@@ -1,7 +1,6 @@
 ---
 title: "TCEC"
 weight: 200
-wikiname: "TCEC"
-# Warning: File is automatically generated from GitHub wiki, do not edit by hand.
+# File shouldn't be generated automatically anymore if I understand it correctly
 ---
 TCEC (Top Chess Engine Championship) is a computer chess tournament organized and maintained by Chessdom at https://tcec-chess.com/.
